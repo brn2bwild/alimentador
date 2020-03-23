@@ -1,0 +1,20 @@
+- 2 nodemcu ESP32
+- 1 bateria 12V / 12A (de ésta dependerá la cantidad de horas que pueda usarse el aparato)
+- 1 controlador de carga solar 30A
+- 2 regulador de voltaje XL4005
+- 1 motor 12V industrial alto torque y altas rpm
+- 1 relevador 12V/40A
+- 1 puente h bts7960
+- 1 caja 50cm x 50cm x 20cm (aprox)
+- 5 conectores pg-9 (impermeables)
+- 5 conectores pg-11 (impermeables)
+- 4 tarjetas fenólicas perforadas 15cm x 10cm
+- 2 sensores de temperatura ds18b20 tipo sonda
+- 5 tiras de pines hembra
+- 5 tiras de pines macho
+- 1 caja hermética de plastico medidas tentativas 60cm x 60cm x 25cm
+
+ésta lista es lo que se necesitaría para que el alimentador funcionara, considero que para funcionar
+el alimentador debe estar conectado a un gateway que se encargue de mandar los datos a la nube, mismo que se haría
+una vez que se tenga trabajando el alimentador, las piezas mecánicas y de la armazón no están incluidas ya que habría
+que adaptarse al material que se tenga para el prototipo
